@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Automated Meeting Scheduler</string>
+    <string name="title">Automated Scheduler Prototype</string>
+    <string name="mic_image">Microphone Image</string>
+    <string name="mic_text">Hold the Microphone button to Record</string>
+    <string name="mic_stop_text">Release the Microphone button to Send</string>
+</resources>
